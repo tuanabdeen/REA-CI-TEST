@@ -1,0 +1,9 @@
+<apex:page controller="IndexController">
+    <c:Header />
+    
+    {!contents} 
+    
+    {!helpText}**
+    
+    <c:Footer />
+</apex:page>
