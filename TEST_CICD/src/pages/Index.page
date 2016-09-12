@@ -2,7 +2,7 @@
     <c:Header />
     
     {!contents} 
-    
+
     {!helpText}
     
     <c:Footer />
