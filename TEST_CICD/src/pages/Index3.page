@@ -4,6 +4,8 @@
     <div style="color:red;">
     	<b>Page 3</b>
     </div>
+
+    Testing
     
     <c:Footer />
 </apex:page>
