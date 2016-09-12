@@ -4,6 +4,8 @@
     {!contents} 
 
     {!helpText}
+
+    Testing
     
     <c:Footer />
 </apex:page>

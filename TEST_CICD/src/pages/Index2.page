@@ -4,6 +4,8 @@
     <div>
     	<font color="#aeaeae" style="font-weight: bold; margin-left:15px;">Page 2</font>
     </div>
+
+    Testing
     
     <c:Footer />
 </apex:page>
