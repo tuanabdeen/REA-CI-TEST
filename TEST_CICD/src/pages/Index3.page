@@ -1,0 +1,7 @@
+<apex:page controller="IndexController">
+    <c:Header />
+    
+    Page 3
+    
+    <c:Footer />
+</apex:page>
