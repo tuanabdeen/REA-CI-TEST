@@ -5,7 +5,7 @@
     
     {!helpText}    
 
-    Page 1 !!!
+    Page 1 ### some more text after ###
     
     <c:Footer />
 </apex:page>
