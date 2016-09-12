@@ -4,6 +4,8 @@
     {!contents} 
     
     {!helpText}    
+
+    Page 1 !!!
     
     <c:Footer />
 </apex:page>
