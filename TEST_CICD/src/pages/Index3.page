@@ -2,7 +2,7 @@
     <c:Header />
     
     <div style="color:red;">
-    	<b>Page 3 ###</b> some more text after ###
+		<b>Page 3 !!!</b> Original text goes here!!! 
     </div>
     
     <c:Footer />
