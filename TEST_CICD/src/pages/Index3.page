@@ -1,7 +1,7 @@
 <apex:page controller="IndexController">
     <c:Header />
     
-    <div>
+    <div style="color:red;">
     	<b>Page 3</b>
     </div>
     
