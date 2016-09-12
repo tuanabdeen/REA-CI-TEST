@@ -2,10 +2,8 @@
     <c:Header />
     
     {!contents} 
-    
-    {!helpText}    
 
-    Original text goes here!!!
+    {!helpText}
     
     <c:Footer />
 </apex:page>
