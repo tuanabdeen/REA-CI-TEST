@@ -3,9 +3,7 @@
     
     {!contents} 
     
-    {!helpText}
-
-    Nice code
+    {!helpText}    
     
     <c:Footer />
 </apex:page>
