@@ -1,7 +1,9 @@
 <apex:page controller="IndexController">
     <c:Header />
     
-    Page 2 
+    <div>
+    	<font color="#aeaeae" style="font-weight: bold; margin-left:15px;">Page 2</font> 
+    </div>
     
     <c:Footer />
 </apex:page>
